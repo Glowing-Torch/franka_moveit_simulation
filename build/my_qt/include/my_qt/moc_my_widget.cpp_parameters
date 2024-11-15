@@ -1,0 +1,16 @@
+-I/home/lenovo/catkin_ws/src/my_qt/include
+-I/opt/ros/noetic/include
+-I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/usr/include/x86_64-linux-gnu/qt5
+-I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
+-I/usr/include/x86_64-linux-gnu/qt5/QtGui
+-I/usr/include/x86_64-linux-gnu/qt5/QtCore
+-I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="my_qt"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/lenovo/catkin_ws/build/my_qt/include/my_qt/moc_my_widget.cpp
+/home/lenovo/catkin_ws/src/my_qt/include/my_qt/my_widget.hpp
